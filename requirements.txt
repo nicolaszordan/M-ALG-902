@@ -13,3 +13,4 @@ scipy
 snakeviz
 termcolor
 xarray
+ipympl
